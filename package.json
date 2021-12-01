@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/satansdeer/transient-notes-processor/issues"
   },
-  "homepage": "https://github.com/satansdeer/transient-notes-processor#readme"
+  "homepage": "https://github.com/satansdeer/transient-notes-processor#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
 }
